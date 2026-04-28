@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DotNetTrainingBatch0.Database/DotNetTrainingBatch0.Database.csproj" />
+  <Project Path="DotNetTrainingBatch0.Mvc/DotNetTrainingBatch0.Mvc.csproj" Id="4005bf0d-9367-4c3c-a017-064215c6a52e" />
+</Solution>
