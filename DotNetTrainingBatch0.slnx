@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="DotNetTrainingBatch0.Database/DotNetTrainingBatch0.Database.csproj" />
   <Project Path="DotNetTrainingBatch0.Mvc/DotNetTrainingBatch0.Mvc.csproj" Id="4005bf0d-9367-4c3c-a017-064215c6a52e" />
+  <Project Path="DotNetTrainingBatch0.MvcAjax/DotNetTrainingBatch0.MvcAjax.csproj" Id="1b666e17-8cda-4da5-8fbc-ddbeff4a0cf6" />
 </Solution>
